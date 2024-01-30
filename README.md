@@ -2,9 +2,9 @@
 1 - build le projet avec cmake ou cmake-gui <br/>
 2 - se rendre dans exosTP/projet <br/>
 3 - lancer une de ces commandes. <br/>
-		-make && ./projet dragon2_small.obj
-		-make && ./projet bunny.obj
-		-make && ./projet carre.obj
+		- make && ./projet dragon2_small.obj
+		- make && ./projet bunny.obj
+		- make && ./projet carre.obj
 
 ## Pour utiliser l'application :
 L'application permet de visualiser différents shaders sur un objet 3D. <br/>
